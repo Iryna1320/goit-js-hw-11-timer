@@ -1,0 +1,1 @@
+*,:after,:before{box-sizing:border-box}body{background-color:#ecbcbc;color:#190449}#header_title{text-align:center;margin-top:100px}.timer{margin:10px auto;display:flex;flex-flow:row;width:500px;justify-content:center;padding:100px}.timer>div{display:flex;flex-flow:column;align-items:center;border:1px solid #064e0a;padding:20px;border-radius:5px;margin:30px}.field{font-size:30px}
