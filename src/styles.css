@@ -1,0 +1,41 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(236, 188, 188);
+  color: rgb(25, 4, 73);
+}
+
+#header_title {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.timer {
+  margin: 10px auto;
+  display: flex;
+  flex-flow: row;
+  width: 500px;
+  justify-content: center;
+  /* border: 1px solid wheat; */
+  padding: 100px;
+}
+
+.timer>div {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  border: 1px solid rgb(6, 78, 10);
+  padding: 20px;
+  border-radius: 5px;
+  margin: 30px;
+}
+
+.field {
+  font-size: 30px;
+}
+
+
